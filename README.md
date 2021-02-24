@@ -15,7 +15,7 @@
    <br>Name</span></strong>：PUSH_KEY                
    <span style="color:#E53333;">Value</span></strong>：方糖server酱的SCKEY值   [获取SCKEY值](http://sc.ftqq.com/3.version)  「登入」-「微信推送」-「扫码绑定」-「发送消息页获取SCKEY值
    <br>    <br> 
-   2.3 保证代码实时同步
+   2.3 保证代码实时同步（注：勾选所有权限）
    <br> <strong><span style="color:#E53333;">
    Name</span></strong>：PAT     <br>   <strong><span style="color:#E53333;">Value</span></strong>：Github token [获取Github token教程](https://blog.csdn.net/eddie_8023/article/details/106388935)<br> 
    
